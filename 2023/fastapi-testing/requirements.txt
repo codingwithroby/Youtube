@@ -1,3 +1,4 @@
 fastapi
 uvicorn
-websocket
+httpx
+pytest
